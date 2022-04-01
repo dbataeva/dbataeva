@@ -1,7 +1,7 @@
 ### Hello!
 ### My name is Daria Bataeva and I'm a student of Programming school 21.
 I began my studying in October 2020 and for a year I was learning a C language. Now I'm studying a C++ languange.
-Also during my study I have been getting acquainted with [Docker](https://github.com/dbataeva/ft_server), [k8s](https://github.com/dbataeva/ft_services) and [Assembler](https://github.com/dbataeva/libasm).
+Also during my study I had been getting acquainted with [Docker](https://github.com/dbataeva/ft_server), [k8s](https://github.com/dbataeva/ft_services) and [Assembler](https://github.com/dbataeva/libasm).
 
 My best C++ projects are:
 - [webserver](https://github.com/dbataeva/webserver) - a group project to make our own HTTP server. My part of the project was to manage of kernel events, getting requests, form responses and preparation for CGI (MacOS)
